@@ -296,7 +296,7 @@
         "trackName": "Quicka"
     },
     {
-        "title" : "Seach Tweet",
+        "title" : "Search Tweet",
         "title_ja": "Twitter を検索",
         "url": "https://mobile.twitter.com/search/?q=[U]",
         "artworkUrl": "https://rakuishi.github.io/static/apps/quicka2/images/search_blue.png",
@@ -304,7 +304,7 @@
         "trackName": "Quicka"
     },
     {
-        "title" : "Seach Video",
+        "title" : "Search Video",
         "title_ja": "YouTube を検索",
         "url": "http://m.youtube.com/results?q=[U]",
         "artworkUrl": "https://rakuishi.github.io/static/apps/quicka2/images/search_gray.png",
