@@ -248,14 +248,6 @@
         "trackName": "大辞泉"
     },
     {
-        "title" : "Google Blog Search",
-        "title_ja": "Google ブログ検索",
-        "url": "http://www.google.co.jp/search?tbm=blg&q=[U]",
-        "artworkUrl": "https://rakuishi.github.io/static/apps/quicka2/images/search_ios7.png",
-        "trackId": "",
-        "trackName": "Quicka"
-    },
-    {
         "title" : "Yahoo!Search(Realtime)",
         "title_ja": "Yahoo! 検索（リアルタイム）",
         "url": "http://realtime.search.yahoo.co.jp/search?ei=UTF-8&p=[U]",
