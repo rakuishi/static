@@ -322,7 +322,7 @@
     {
         "title" : "Search Amazon Japan",
         "title_ja": "Amazon Japan を検索",
-        "url": "http://www.amazon.co.jp/gp/aw/s/ref=is_box_?__mk_ja_JP=%83J%83%5E%83J%83i&k=[S]",
+        "url": "https://www.amazon.co.jp/s?k=[U]",
         "artworkUrl": "https://rakuishi.github.io/static/apps/quicka2/images/search_green.png",
         "trackId": "",
         "trackName": "Quicka"
@@ -330,7 +330,7 @@
     {
         "title" : "Search Kindle Store",
         "title_ja": "Kindle ストアを検索",
-        "url": "http://www.amazon.co.jp/gp/aw/s/ref=kina_tsf_?i=digital-text&phoneType=iPhone&phoneCarrier=wifi&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&k=[U]&x=0&y=0",
+        "url": "https://www.amazon.co.jp/s?k=[U]&rh=n%3A2275256051",
         "artworkUrl": "https://rakuishi.github.io/static/apps/quicka2/images/search_orange.png",
         "trackId": "",
         "trackName": "Quicka"
